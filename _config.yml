@@ -1,5 +1,5 @@
 title: My first github website
-author: Github user emannion25
+author: Written by emannion25
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -12,4 +12,4 @@ github_username:  emannion25 # DO NOT include the @ character, or else the build
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-#theme: minima
+theme: minima
